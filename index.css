@@ -1,0 +1,12 @@
+.header{
+    background-color: rgb(82, 131, 238);
+}
+
+.catpic{
+    background-color: rgb(48, 108, 238);
+    float: left;
+}
+
+.site button{
+    float: left;
+}
