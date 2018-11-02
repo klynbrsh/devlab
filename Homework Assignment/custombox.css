@@ -1,0 +1,9 @@
+.btn {
+ height: 150px;
+ width: 200px;
+ padding: 10px;
+ margin: 5px;
+ border: dashed 5px green;
+ background-color: darkred;
+ color: yellow;
+}
