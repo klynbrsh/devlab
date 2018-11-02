@@ -1,4 +1,7 @@
 .btn {
     color: blue;
     background-color: orange;
+    padding: 5px;
+    margin: 5px;
+    border: Solid 2px black;
 }
